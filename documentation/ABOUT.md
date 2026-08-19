@@ -1,6 +1,6 @@
-# 🌾 About AgriBrain: Smart Agriculture AI System
+# 🌾 About : Smart Agriculture AI System
 
-**AgriBrain** is a production-grade, full-stack artificial intelligence platform designed to bridge the gap between advanced data science and traditional agriculture. By combining deep learning computer vision, machine learning regression and classification ensembles, and generative AI (Large Language Models), AgriBrain empowers farmers, researchers, and agronomists with data-driven decision-making tools.
+It's is a production-grade, full-stack artificial intelligence platform designed to bridge the gap between advanced data science and traditional agriculture. By combining deep learning computer vision, machine learning regression and classification ensembles, and generative AI (Large Language Models), AgriBrain empowers farmers, researchers, and agronomists with data-driven decision-making tools.
 
 ---
 
@@ -44,7 +44,6 @@ AgriBrain operates on a decoupled, microservices-ready backend consisting of thr
 
 - **Glassmorphism Theme:** A sleek, modern dark-themed user interface utilizing CSS backdrop filters, gradients, and animated particle backdrops.
 - **Dynamic Charting:** Recharts integration displays interactive historical yield trends and crop recommendation distributions.
-- **Multi-Language (i18n):** Translates pages dynamically using `react-i18next` to make the tool accessible to regional farmers in different dialects.
 - **Interactive Reports:** Allows generating a unified Farm Report combining diagnostics, soil recommendations, and yield forecasts into a single, printable layout.
 
 ---
