@@ -391,8 +391,6 @@ The FastAPI server provides several production-grade endpoints for prediction, c
 ## 👨‍💻 Team Contributions
 
 
-This project was developed collaboratively by a five-member team, with each member owning one complete module from data preparation through integration.
-
 | # | Role | Module | Key Responsibilities |
 |---|---|---|---|
 | 1 | **Deep Learning & Diagnostics Lead** | Disease Detection | EfficientNet CNN training, data augmentation pipeline, Grad-CAM integration, model evaluation |
@@ -401,7 +399,6 @@ This project was developed collaboratively by a five-member team, with each memb
 | 4 | **Backend Systems & API Architect** | Backend API | FastAPI server, RESTful endpoints, Node.js proxy, Gemini integration, full pipeline orchestration |
 | 5 | **Frontend Developer & UI/UX Designer** | Dashboard UI | React dashboard, Tailwind CSS, Recharts visualizations, i18n support, API integration |
 
-> Each member contributed equally to the final integrated system through parallel development of independent, interconnected modules.
 
 ---
 
