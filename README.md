@@ -386,7 +386,7 @@ The FastAPI server provides several production-grade endpoints for prediction, c
 
 ---
 
-## 👨‍💻 Team Contributions
+## 👨‍💻  Contributions
 
 
 | # | Role | Module | Key Responsibilities |
