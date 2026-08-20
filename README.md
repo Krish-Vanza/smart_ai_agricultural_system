@@ -68,7 +68,6 @@ The **Smart Agriculture AI System** is a full-stack, AI-powered platform designe
 | 💬 **Farm AI Chatbot** | Conversational assistant powered by Gemini for open-ended farming Q&A |
 | 📈 **Yield Forecasting** | Input area, crop, & year → XGBoost regression predicts harvest density (hg/ha) |
 | 🛡️ **Confidence Guards** | AI flags low-confidence predictions to prevent risky agronomic decisions |
-| 🌍 **Multi-Language UI** | Frontend supports internationalization (i18n) via react-i18next |
 | 📊 **Interactive Charts** | Recharts-powered visualizations of yield trends and recommendation scores |
 
 ---
@@ -178,7 +177,6 @@ CropProject/
 | Framer Motion | 12 | Animations & micro-interactions |
 | Recharts | 3.7 | Interactive data visualization |
 | React Router DOM | 7 | Client-side routing |
-| i18next / react-i18next | — | Multi-language internationalization |
 | Lucide React | — | Icon system |
 | Axios | — | HTTP client |
 
@@ -399,17 +397,6 @@ The FastAPI server provides several production-grade endpoints for prediction, c
 | 4 | **Backend Systems & API Architect** | Backend API | FastAPI server, RESTful endpoints, Node.js proxy, Gemini integration, full pipeline orchestration |
 | 5 | **Frontend Developer & UI/UX Designer** | Dashboard UI | React dashboard, Tailwind CSS, Recharts visualizations, i18n support, API integration |
 
-
----
-
-## 🔮 Future Improvements
-
-- [ ] **🛰️ Satellite Data Integration** — Auto-map farm areas to pull real-time NDVI and soil moisture data
-- [ ] **⛅ Live Weather API** — Connect to OpenWeatherMap to auto-fill climatic inputs for predictions
-- [ ] **📱 Mobile App** — React Native port for in-field use on smartphones
-- [ ] **📡 IoT Sensor Integration** — Consume live telemetry from on-farm NPK and moisture sensors
-- [ ] **🗺️ Farm Mapping** — Geospatial visualization of field health zones and yield maps
-- [ ] **🔐 User Authentication** — Farmer profile system with historical record tracking
 
 ---
 
